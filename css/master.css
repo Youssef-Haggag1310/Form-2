@@ -1,0 +1,50 @@
+/* * {
+    padding: 0 ;
+    margin: 0 ;
+    box-sizing: border-box;
+}
+
+.wrapper2 {
+    background-color: orangered;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: cemter;
+}
+
+form {
+    background-color: blue;
+    margin: 5% 0 ;
+    padding: 10px 20px;
+}
+
+h3 {
+    text-align: center;
+    padding: 20px 0 ;
+}
+
+form p {
+    text-align: center;
+    padding-bottom: 20px;
+    width: 100%;
+}
+
+
+
+
+.input-box,
+.input-box2,
+.input-box3 {
+    background-color: green;
+    margin: 30px 30px;
+    /* display: flex; */
+    /* justify-content: space-arount; */
+}
+.input-box label {
+    background-color: yellowgreen;
+    margin: 40px 0px;
+}
+
+.input-box {
+    display: block;
+} */
